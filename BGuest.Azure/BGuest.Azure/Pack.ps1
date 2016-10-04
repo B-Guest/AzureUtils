@@ -1,0 +1,1 @@
+nuget pack BGuest.Azure.csproj -Prop Configuration=Release -symbols
